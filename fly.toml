@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for bhxp on 2025-03-19T21:15:16Z
+# fly.toml app configuration file generated for bhoppings-de1 on 2025-03-19T22:01:53Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'bhxp'
-primary_region = 'ord'
+app = 'bhoppings-de1'
+primary_region = 'sjc'
 
 [build]
 
