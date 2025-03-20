@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for bhxp on 2025-03-19T21:15:16Z
+# fly.toml app configuration file generated for bhxpings on 2025-03-20T17:45:09Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'bhxp'
+app = 'bhxpings'
 primary_region = 'ord'
 
 [build]
